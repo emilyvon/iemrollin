@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "A Guide to Master AWS Mobile Hub"
 date:   2017-03-03 21:24:47 +1030
 categories: 
